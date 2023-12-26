@@ -1,5 +1,5 @@
 # Neural-Mechanisms-of-Individual-Differences-in-Braille-Reading-Proficiency
-Code for the manuscript entitled 'Connectivity and top-down communication of a neural link predict late blind individuals¡¯ natural Braille reading proficiency'.
+Code for the manuscript entitled 'Connectivity and top-down communication of a neural link predict late blind individuals' natural Braille reading proficiency'.
 
 ## 1. System requirements
 The programs are based in Matlab R2018a, Python v3.8.8, R v3.6.1, and FreeSurfer v6.0.0, using the freesurfer(Matlab), DPABISurf(Matlab), SPM12(Matlab), Pysurfer(Python) and mediation(R) toolboxes.
